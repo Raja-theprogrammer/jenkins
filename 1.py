@@ -1,2 +1,2 @@
-print "Raja"
+print ("Raja")
 
